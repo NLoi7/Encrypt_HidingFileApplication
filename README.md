@@ -1,6 +1,6 @@
 # Encrypt_HidingFileApplication
 ## Prasetyadi, G. C., Mutiara, A. B., & Refianti, R. (2017, November). File encryption and hiding application based on advanced encryption standard (AES) and append insertion steganography method. In 2017 Second International Conference on Informatics and Computing (ICIC) (pp. 1-5). IEEE
-### Ngữ Cảnh ứng dụng :### 
+### Ngữ Cảnh ứng dụng : 
 Khi Bob muốn gửi cho Alice một file chiến lược quan trọng của công ty, nhưng lo ngại bên thứ 3 (attacker) chú ý không cần thiết hay tệ hơn là có thể chiếm được file , chính vì thế Bob sử dụng một phương pháp đó là : Mã hóa file sau đó ẩn file đã mã hóa vào một tệp hình ảnh. Sau đó gửi ảnh này cho Alice một cách bình thường mà không cần lo ngại  attacker 🗯
 ### Mục đích của ứng dụng : 
   + Phương pháp này có thể tránh được sự chú ý của bên thứ 3 hoặc tệ hơn  nếu loại bỏ được ảnh và lấy được file thì file đã được mã hóa và attacker không có key để có thể giải mã được file
